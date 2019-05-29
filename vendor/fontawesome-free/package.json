@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.8.1",
-      "/Users/luismaia/gift blog"
+      "/Users/luismaia/Documents/GitHub/Gift_blog"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.8.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.8.1.tgz",
   "_spec": "5.8.1",
-  "_where": "/Users/luismaia/gift blog",
+  "_where": "/Users/luismaia/Documents/GitHub/Gift_blog",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
