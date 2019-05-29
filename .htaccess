@@ -1,6 +1,7 @@
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
 ErrorDocument 404 www.giftfinder.ga/404.html 
+
 ExpiresActive On
 ExpiresByType image/Webp "access plus 1 year"
 ExpiresByType image/jpeg "access plus 1 year"
