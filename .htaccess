@@ -3,7 +3,7 @@
 ErrorDocument 404 www.giftfinder.ga/404.html
 ExpiresActive On
 # 1 Month for most static assets
-<filesMatch ".(css|jpg|jpeg|png|gif|js|ico)$">
+<filesMatch ".(WebP|css|jpg|jpeg|png|gif|js|ico|woff2)$">
 Header set Cache-Control "max-age=2592000, public"
 </filesMatch>
 #specify character coding
